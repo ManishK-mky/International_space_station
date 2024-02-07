@@ -24,4 +24,5 @@ Contributions to this project are welcome! If you have ideas for improvements or
 <h2>License</h2>
 This project is licensed under the MIT License.
 
+<br>
 Feel free to customize and expand upon this template to fit the specifics of your project. Happy coding and happy tracking! 🚀🌍
